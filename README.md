@@ -1,2 +1,3 @@
 # Screnshoter
-Screnshoter this a test Screnshot in C#
+Screnshoter - изначально планировался как тестовый/обучавший проект но перерос в программу с MIT лицензий
+Было использовано : C#,.NET Framework 4.5.1
